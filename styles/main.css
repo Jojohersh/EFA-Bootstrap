@@ -1,0 +1,9 @@
+#jumbotron {
+  background-image: linear-gradient(
+    rgba(0,0,0,0.1),
+    rgba(255,0,0,0.11)
+  ),
+  url("../assets/crying.jpg");
+  background-size: cover;
+  background-position: center;
+}
